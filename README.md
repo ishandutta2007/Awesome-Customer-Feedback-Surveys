@@ -5,26 +5,22 @@
 
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Survey Design, NPS/CSAT Measurement & Experience Management*  
+*The ultimate index of Customer Feedback Software, Online Survey Builders, NPS/CSAT Measurement Platforms, and Experience Management (CXM) Tools.*  
 
 **Last updated: March 2026**
 
+Welcome to the definitive directory for **Customer Feedback & Surveys**. Whether you are building product-market fit (PMF) surveys, orchestrating enterprise Customer Experience (CX) programs, measuring Net Promoter Score (NPS) and Customer Satisfaction (CSAT), or self-hosting privacy-first open-source survey infrastructure, this repository curates the top tools in the ecosystem.
 
+### 🔍 Key Metrics & Survey Methodologies Supported
+- **NPS (Net Promoter Score)**: Measure long-term customer loyalty and likelihood of recommendation (-100 to +100).
+- **CSAT (Customer Satisfaction Score)**: Evaluate immediate customer contentment after specific transactions or interactions (1 to 5 scale).
+- **CES (Customer Effort Score)**: Gauge how easy or difficult it was for customers to resolve an issue or accomplish a task.
+- **PMF (Product-Market Fit / Sean Ellis Test)**: Track the percentage of users who would be "very disappointed" if your product disappeared (>40% benchmark).
+- **Voice of Customer (VoC) & In-App Microsurveys**: Trigger targeted contextual feedback directly inside web and mobile apps.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Feedback & Surveys**. These tools enable organizations to collect, analyze, and act on customer feedback through NPS surveys, CSAT measurement, product-market fit studies, and experience management programs — turning responses into actionable insights.
+---
 
-
-
-**Examples** include Salesforce Survey and Feedback Management, Qualtrics CustomerXM, SurveyMonkey Enterprise, Typeform, Medallia, InMoment, Delighted, Survicate, UserTesting, and QuestionPro (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom survey logic, and open feedback analytics — ideal for researchers, product teams, and developers seeking transparent, data-sovereign survey platforms.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+### 📑 Table of Contents
 
 
 
