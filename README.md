@@ -70,43 +70,43 @@ The global customer feedback and online survey software market is estimated at *
 
 ## 🐙 Open-Source GitHub Projects
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   Leading open-source survey platform (AGPL-3.0) positioned as a privacy-first alternative to Typeform and Qualtrics. Features a no-code survey builder, multi-channel distribution (in-app, website, link, email), user targeting, and native integrations (Slack, Notion, Zapier, n8n). Self-hostable via Docker or Kubernetes with full data sovereignty.
 
-- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+- **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
   Open-source conversational form and survey builder (AGPL-3.0). Enables teams to build visual chat-like feedback flows, embed them into web and mobile apps, collect answers in real-time, and trigger native webhook and Zapier automations.
 
-- **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)  
+- **[HeyForm](https://github.com/heyform/heyform)** [![GitHub_Stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)  
   Open-source conversational form and survey builder (GPL-3.0) alternative to Typeform and Google Forms. Supports rich input types, advanced conditional branching, interactive feedback analytics, and custom domains.
 
-- **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
+- **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
   Free and open-source JavaScript survey and form library (MIT). Features a versatile client-side engine supporting React, Angular, Vue, and jQuery, paired with dynamic JSON-driven schemas, multi-page flows, and complex validation rules.
 
-- **[Fider](https://github.com/getfider/fider)** [![GitHub stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers)  
+- **[Fider](https://github.com/getfider/fider)** [![GitHub_Stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers)  
   Open-source customer feedback platform (AGPL-3.0) designed to collect, organize, and discuss product ideas and feature requests. Provides upvoting, user comments, notifications, and status tracking (planned, started, completed).
 
-- **[erxes](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
+- **[erxes](https://github.com/erxes/erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
   Open-source experience operating system (XOS) positioned as an open alternative to HubSpot and Qualtrics. Integrates omnichannel surveys, customer sentiment tracking, feedback management, and marketing automation.
 
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
   The most established open-source survey application (GPL-2.0) in continuous development since 2006. Offers 30+ question types, advanced assessment scoring, skip logic, 80+ language translations, and RemoteControl JSON-RPC APIs.
 
-- **[TellForm](https://github.com/tellform/tellform)** [![GitHub stars](https://img.shields.io/github/stars/tellform/tellform?style=social&color=white)](https://github.com/tellform/tellform/stargazers)  
+- **[TellForm](https://github.com/tellform/tellform)** [![GitHub_Stars](https://img.shields.io/github/stars/tellform/tellform?style=social&color=white)](https://github.com/tellform/tellform/stargazers)  
   Open-source alternative to Typeform and Google Forms (MIT) built with Node.js and MongoDB. Supports customizable design themes, conditional logic, multi-language surveys, and instant response analytics.
 
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+- **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
   Community-driven open-source form and feedback builder (AGPL-3.0) designed as a self-hosted alternative to Typeform. Offers customizable start/end screens, native analytics, export to CSV/XLS, and Docker-ready deployment.
 
-- **[Form.io](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
+- **[Form.io](https://github.com/formio/formio)** [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
   Combined form builder and data management platform for progressive web and mobile applications (Apache-2.0). Provides dynamic JSON schema forms, role-based access control, and automated REST API generation.
 
-- **[ClearFlask](https://github.com/clearflask/clearflask)** [![GitHub stars](https://img.shields.io/github/stars/clearflask/clearflask?style=social&color=white)](https://github.com/clearflask/clearflask/stargazers)  
+- **[ClearFlask](https://github.com/clearflask/clearflask)** [![GitHub_Stars](https://img.shields.io/github/stars/clearflask/clearflask?style=social&color=white)](https://github.com/clearflask/clearflask/stargazers)  
   Open-source customer feedback, ideation, and product roadmap management tool. Features public and private feedback portals, roadmap boards, changelogs, user voting, and prioritization workflows.
 
-- **[Formulosity](https://github.com/plutov/formulosity)** [![GitHub stars](https://img.shields.io/github/stars/plutov/formulosity?style=social&color=white)](https://github.com/plutov/formulosity/stargazers)  
+- **[Formulosity](https://github.com/plutov/formulosity)** [![GitHub_Stars](https://img.shields.io/github/stars/plutov/formulosity?style=social&color=white)](https://github.com/plutov/formulosity/stargazers)  
   Self-hosted Surveys-as-Code platform (MIT) written in Go and Next.js. Supports defining customer surveys in markdown/YAML, API-driven ingestion, and lightweight container deployment.
 
-- **[surveydown](https://github.com/surveydown-dev/surveydown)** [![GitHub stars](https://img.shields.io/github/stars/surveydown-dev/surveydown?style=social&color=white)](https://github.com/surveydown-dev/surveydown/stargazers)  
+- **[surveydown](https://github.com/surveydown-dev/surveydown)** [![GitHub_Stars](https://img.shields.io/github/stars/surveydown-dev/surveydown?style=social&color=white)](https://github.com/surveydown-dev/surveydown/stargazers)  
   Open-source, markdown-based platform for programmable and reproducible surveys (R package / Quarto / Shiny). Designed for academic research and behavioral studies with PostgreSQL and Supabase backends.
 
 ---
