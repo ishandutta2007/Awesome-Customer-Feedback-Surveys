@@ -24,35 +24,25 @@ Welcome to the definitive directory for **Customer Feedback & Surveys**. Whether
 
 ---
 
-### 📑 Table of Contents
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global customer feedback and online survey software market is estimated at **$4.6B to $5.5B** and projected to exceed **$12B+ by 2032**, expanding at a ~14–16% CAGR driven by automated CX analytics and continuous digital sentiment tracking. The sector exhibits a **barbell market structure**: it is **moderately to highly fragmented at the entry and mid-market level** with hundreds of low-barrier form and widget tools, yet **heavily concentrated at the enterprise experience tier** where a small oligopoly of giants (e.g., Salesforce, Qualtrics, Medallia) captures the majority of enterprise contract value.
 
+---
 
+## ☁️ SaaS / Hosted Platforms
 
-## SaaS/Hosted Platforms
-
-
-
-| Platform | Company Size (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Trial Limits |
+| 🏢 Platform | 💰 Company Size (Valuation / Revenue) | 📝 Description | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Survey and Feedback Management](https://www.salesforce.com/)** | ~$280B+ Market Cap / ~$34.9B ARR | Native Salesforce survey tool integrated with Service Cloud and Experience Cloud. Enables NPS, CSAT, and custom feedback collection with Einstein AI analytics. | Starts at $300/mo (add-on pack for 1,000 responses); Feedback Management Starter edition from $12,000/mo | No permanent free tier; 30-day free trial of Salesforce CRM includes a pool of 300 survey responses across the org |
 | **[Qualtrics CustomerXM](https://www.qualtrics.com/)** | $12.5B Valuation (Silver Lake buyout) / ~$1.5B ARR | Enterprise experience management platform for customer feedback, NPS, and predictive analytics. Widely used for CX programs across industries. | Starts at $420/mo ($5,040/yr billed annually) for entry CoreXM research; CustomerXM enterprise packages start from ~$15,000/yr | Free forever basic tier limited to 1 active survey, 15 questions per survey, and 100 lifetime responses (no export or automations); sales-guided 30-day trial for research |
@@ -67,7 +57,7 @@ The global customer feedback and online survey software market is estimated at *
 
 
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
 - **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   Leading open-source survey platform (AGPL-3.0) positioned as a privacy-first alternative to Typeform and Qualtrics. Features a no-code survey builder, multi-channel distribution (in-app, website, link, email), user targeting, and native integrations (Slack, Notion, Zapier, n8n). Self-hostable via Docker or Kubernetes with full data sovereignty.
@@ -108,42 +98,26 @@ The global customer feedback and online survey software market is estimated at *
 - **[surveydown](https://github.com/surveydown-dev/surveydown)** [![GitHub stars](https://img.shields.io/github/stars/surveydown-dev/surveydown?style=social&color=white)](https://github.com/surveydown-dev/surveydown/stargazers)  
   Open-source, markdown-based platform for programmable and reproducible surveys (R package / Quarto / Shiny). Designed for academic research and behavioral studies with PostgreSQL and Supabase backends.
 
+---
 
+## 🤝 How to Contribute
 
-## How to Contribute
+1. 🍴 Fork the repo.
+2. 📝 Add/edit entries in `README.md` (follow the table and social-badge formatting).
+3. 🔗 Include: tool name, official link, pricing/limits (for SaaS) or GitHub repository (for open-source).
+4. 🚀 Submit a PR with a concise summary of changes.
 
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Survey platforms collecting personal data must comply with data protection regulations (GDPR, CCPA, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, database configuration, and ongoing maintenance for production reliability.
-
-
+⭐ Star the repo if you find it helpful!
 
 ---
 
+## ⚠️ Disclaimer
 
+- 📌 This is a **community-curated** list — not exhaustive and not an official corporate endorsement.
+- 🔒 Survey platforms collecting personal feedback data must comply with international privacy regulations (GDPR, CCPA, HIPAA).
+- 🛠️ Self-hosted open-source software requires proper server hardening, database encryption, and regular patch maintenance for production workloads.
 
-**Made for product teams, UX researchers, customer experience managers, and developers building transparent feedback solutions.**  
+---
 
-Let's make customer feedback and surveys more open, data-driven, and actionable.
+**Made with ❤️ for product teams, UX researchers, customer experience managers, and developers building transparent feedback solutions.**  
+Let's make customer feedback and surveys more open, data-driven, and actionable!
