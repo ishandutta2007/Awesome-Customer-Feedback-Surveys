@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Surveys/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Feedback-Surveys?style=flat-square&logo=github&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Surveys/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-Surveys/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## Top Customer Feedback Surveys Ecosystem
