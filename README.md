@@ -39,6 +39,8 @@ Welcome to the definitive directory for **Customer Feedback & Surveys**. Whether
 - [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
 - [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -117,6 +119,23 @@ The global customer feedback and online survey software market is estimated at *
 4. 🚀 Submit a PR with a concise summary of changes.
 
 ⭐ Star the repo if you find it helpful!
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome-Customer-Feedback-Surveys** list! If this repository has saved you time or helped your team discover the right survey and customer experience tools, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other product teams and developers discover it.
+- 🍴 **Fork and contribute** new tools, open-source projects, or corrections.
+- 📢 **Share** with your network, team, and CX community.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Feedback-Surveys&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Feedback-Surveys&type=date&legend=top-left)
 
 ---
 
