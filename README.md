@@ -1,5 +1,9 @@
 # Awesome-Customer-Feedback-Surveys
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Customer Feedback & Surveys Banner" width="100%">
+</p>
+
 ## Top Customer Feedback Surveys Ecosystem
 
 
