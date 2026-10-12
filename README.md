@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global customer feedback and online survey software market is estimated at **$4.6B to $5.5B** and projected to exceed **$12B+ by 2032**, expanding at a ~14–16% CAGR driven by automated CX analytics and continuous digital sentiment tracking. The sector exhibits a **barbell market structure**: it is **moderately to highly fragmented at the entry and mid-market level** with hundreds of low-barrier form and widget tools, yet **heavily concentrated at the enterprise experience tier** where a small oligopoly of giants (e.g., Salesforce, Qualtrics, Medallia) captures the majority of enterprise contract value.
 
 
 
